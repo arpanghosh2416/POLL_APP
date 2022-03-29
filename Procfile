@@ -1,1 +1,1 @@
-web: gunicorn PollApp.app
+web: gunicorn manage:app
