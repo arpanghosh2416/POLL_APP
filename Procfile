@@ -1,1 +1,1 @@
-web: gunicorn PollApp.wsgi
+web: gunicorn PollApp.app
